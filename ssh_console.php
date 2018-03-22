@@ -570,9 +570,6 @@ $logattack = ssh2command($_SESSION['attackpath'].$attackname,$NodeData,$_SESSION
 
         <!-- footer content -->
         <footer>
-          <div class="pull-right">
-            <a href="http://www.dese.iisc.ac.in">DESE</a> | <a href="http://www.iisc.ac.in">IISc</a> | ©2018 All Rights Reserved.
-          </div>
           <div class="clearfix"></div>
         </footer>
         <!-- /footer content -->
